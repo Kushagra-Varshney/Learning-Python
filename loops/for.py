@@ -9,3 +9,9 @@ for i in range(1, 5, 2):
 fruits = ["apple", "banana", "cherry"]
 for x in fruits:
     print(x)
+
+# for loop with else
+for i in range(4):
+    print(i)
+else:
+    print("Finally finished!")
